@@ -17,8 +17,8 @@ title: Prednášky
 <!-- --------------- -->
 * **Týždeň 29.9-5.10.** Ďalšie príklady na cykly, Euklidov algoritmus, cyklus while, funkcie
 {% include notes.html file="P3" name="Prednáška 3" show=1 dot=1
-%} {% include notes.html file="P4" name="Prednáška 4" show=1 dot=1 Cvičenia 2
-|-
+%} {% include notes.html file="P4" name="Prednáška 4" show=1 dot=1
+%} Cvičenia 2
 <!-- --------------- -->
 * **Týždeň 6.-12.10.**  Dokončenie funkcií, teoretické cvičenie, test, polia, struct
 {% include notes.html file="P4b" name="Prednáška 4b" show=0 dot=1
