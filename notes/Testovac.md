@@ -49,7 +49,7 @@ bude súčasne mnohé z vašich riešení aj testovať.
     pokusy už nebudú brané do úvahy pri bodovaní, pokiaľ nemáte
     dohodnuté individuálne predĺženie termínu s vyučujúcimi.
   - Ak testovač nefunguje alebo ak nájdete chybu v zadaní, **dajte nám
-    vedieť** na adrese ![e-prg.png](e-prg.png "e-prg.png") Takisto na
+    vedieť** na adrese {% include email.html %}. Takisto na
     túto adresu posielajte otázky k zadaniam alebo prosby o pomoc s
     konkrétnou úlohou.
 
