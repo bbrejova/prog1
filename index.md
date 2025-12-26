@@ -15,10 +15,12 @@ cout << 123 << endl; // pokus
 
 * Na tejto stránke nájdete poznámky z prednášok a ďalšie materiály.
 * Rozpis semestra uvedený nižšie je približný, bude sa meniť podľa potreby.
-* K niektorým prednáškam máme [https://www.youtube.com/playlist?list=PLCnvzZTQ9hx40OSubxJ6i9bItqaWC-1mP video nahrávky z minulých rokov], ktoré si môžete pozrieť. Niektoré časti prednášok sa však môžu zmeniť a určite sa budú meniť organizačné pokyny, takže si určite k video prednáške pozrite aj poznámky z aktuálneho roku.
+* K niektorým prednáškam máme [video nahrávky z minulých rokov](https://www.youtube.com/playlist?list=PLCnvzZTQ9hx40OSubxJ6i9bItqaWC-1mP), ktoré si môžete pozrieť. Niektoré časti prednášok sa však môžu zmeniť a určite sa budú meniť organizačné pokyny, takže si určite k video prednáške pozrite aj poznámky z aktuálneho roku.
 
 * **Týždeň 22.-28.9.** Úvod, premenné, podmienky, výrazy, cyklus for<br>
-<!-- {{PR|1}} {{Dot}} {{PR|2}} {{Dot}} {{CV|1}} {{Dot}} [[Zimný semester, softvér|Softvér]] {{Dot}} [[Testovač|Testovač návod]] {{Dot}}--> [Testovač](https://prog.dcs.fmph.uniba.sk/)
+{% include notes.html file="P1" name="Prednáška 1" show=1 dot=1
+%} [Testovač](https://prog.dcs.fmph.uniba.sk/)
+<!-- {{PR|1}} {{Dot}} {{PR|2}} {{Dot}} {{CV|1}} {{Dot}} [[Zimný semester, softvér|Softvér]] {{Dot}} [[Testovač|Testovač návod]] {{Dot}}--> 
 
 {% if false %}
 {{T|29.9-5.10.|Ďalšie príklady na cykly, Euklidov algoritmus, cyklus while, funkcie}}
