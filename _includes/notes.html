@@ -1,1 +1,1 @@
-{% if include.hide != 1 %}<a href="{{ "/notes/" + include.file + ".html" | relative_url }} ">{{ include.name }}</a>{% if include.dot == 1 %} · {% endif %}{% endif %}
+{% if include.hide != 1 %}{% assign tmp_url=["/notes/", include.file, ".html"] | join: "" %}<a href="{{ tmp_url | relative_url }} ">{{ include.name }}</a>{% if include.dot == 1 %} · {% endif %}{% endif %}
