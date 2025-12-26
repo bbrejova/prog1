@@ -22,8 +22,8 @@ title: Úvod
 Konzultácie po dohode e-mailom.
 
 Ak nemáte otázku na konkrétnu osobu, odporúčame vyučujúcich kontaktovať
-pomocou spoločnej adresy e-mailovej adresy ![e-prg.png](e-prg.png
-"e-prg.png"). Odpovie vám ten z nás, kto má na starosti príslušnú otázku
+pomocou spoločnej e-mailovej adresy {% include email.html %}.
+Odpovie vám ten z nás, kto má na starosti príslušnú otázku
 alebo kto má práve čas.
 
 ## Ciele predmetu

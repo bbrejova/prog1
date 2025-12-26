@@ -7,15 +7,16 @@ title: Prednášky
 * K niektorým prednáškam máme [video nahrávky z minulých rokov](https://www.youtube.com/playlist?list=PLCnvzZTQ9hx40OSubxJ6i9bItqaWC-1mP), ktoré si môžete pozrieť. Niektoré časti prednášok sa však môžu zmeniť a určite sa budú meniť organizačné pokyny, takže si určite k video prednáške pozrite aj poznámky z aktuálneho roku.
 
 <!-- --------------- -->
-* **Týždeň 22.-28.9.** Úvod, premenné, podmienky, výrazy, cyklus for<br/>{%
-include notes.html file="P1" name="Prednáška 1" %}{%
-include notes.html file="P2" name="Prednáška 2" hide=0 dot=1 %}{%
-include notes.html file="C1" name="Cvičenia 1" hide=0 dot=1 %}{%
-include notes.html file="Softver" name="Softvér" hide=0 dot=1 %}{%
-include notes.html file="Testovac" name="Testovač návod" hide=0 dot=1 %}{%
-include url.html file="https://prog.dcs.fmph.uniba.sk/" name="Testovač" hide=0 dot=0 %}
+**Týždeň 22.-28.9.** Úvod, premenné, podmienky, výrazy, cyklus for<br/>
+{% include notes.html file="P1" name="Prednáška 1" hide=0 dot=1 %}
+{% include notes.html file="P2" name="Prednáška 2" hide=1 dot=1 %}
+{% include notes.html file="C1" name="Cvičenia 1" hide=1 dot=1 %}
+{% include notes.html file="Softver" name="Softvér" hide=0 dot=1 %}
+{% include notes.html file="Testovac" name="Testovač návod" hide=0 dot=1 %}
+{% include url.html file="https://prog.dcs.fmph.uniba.sk/" name="Testovač" hide=0 dot=0 %}
+
 <!-- --------------- -->
-* **Týždeň 29.9-5.10.** Ďalšie príklady na cykly, Euklidov algoritmus, cyklus while, funkcie<br/>{%
+**Týždeň 29.9-5.10.** Ďalšie príklady na cykly, Euklidov algoritmus, cyklus while, funkcie<br/>{%
 include notes.html file="P3" name="Prednáška 3" hide=0 dot=1 %}{%
 include notes.html file="P4" name="Prednáška 4" hide=0 dot=1 %}{%
 include hide.html name="Cvičenia 2" hide=0 dot=0 %}
