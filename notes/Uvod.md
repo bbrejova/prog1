@@ -1,3 +1,7 @@
+---
+title: Úvod
+---
+
 ## Základné údaje
 
 **Rozvrh**

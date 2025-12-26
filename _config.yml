@@ -7,6 +7,7 @@ short_title: Programovanie
 
 
 lang: sk
+baseurl: "/prog1"
 
 header_pages:
   - index.md

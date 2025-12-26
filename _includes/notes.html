@@ -1,1 +1,1 @@
-{% if include.show != 0 %}<a href="/prog1/notes/{{ include.file }}.html">{{ include.name }}</a>{% if include.dot != 0 %} · {% endif %}{% endif %}
+{% if include.hide != 1 %}<a href="{{ "/notes/" + include.file + ".html" | relative_url }} ">{{ include.name }}</a>{% if include.dot == 1 %} · {% endif %}{% endif %}
