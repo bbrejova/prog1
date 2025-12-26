@@ -20,9 +20,9 @@ title: Prednášky
 %} {% include notes.html file="P4" name="Prednáška 4" hide=0 dot=1
 %} Cvičenia 2
 <!-- --------------- -->
-* **Týždeň 6.-12.10.**  Dokončenie funkcií, teoretické cvičenie, test, polia, struct<br/>
-{% include notes.html file="P4b" name="Prednáška 4b" hide=1 dot=0
-%} {% include notes.html file="P5" name="Prednáška 5" hide=0 dot=0
+* **Týždeň 6.-12.10.**  Dokončenie funkcií, teoretické cvičenie, test, polia, struct<br/>{%
+include notes.html file="P4b" name="Prednáška 4b" hide=1 dot=0 %}{%
+include notes.html file="P5" name="Prednáška 5" hide=0 dot=0
 %} ([ video s koncom prednášky](https://youtu.be/Uml5x1K8CJU))  ·
 {% include notes.html file="SVGdraw" name="Grafická knižnica SVGdraw" hide=0 dot=1
 %} Cvičenia 3

@@ -1,1 +1,1 @@
-{% if include.hide != 1 %}<a href="{{ include.file | prepend: '/files/' | append: '.html'  | relative_url }} ">{{ include.name }}</a>{% if include.dot == 1 %} · {% endif %}{% endif %}
+{% if include.hide != 1 %}<a href="{{ include.file | prepend: '/files/'  | relative_url }} ">{{ include.name }}</a>{% if include.dot == 1 %} · {% endif %}{% endif %}
