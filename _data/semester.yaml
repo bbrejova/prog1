@@ -11,7 +11,7 @@ weeks:
   - items:
       - {type: text, name: 'Cvičenia 2'}
 
-rest = |
+rest: |
   include notes.html file="C1" name="Cvičenia 1" hide=0 dot=1 %}{%
   include notes.html file="Softver" name="Softvér" hide=0 dot=1 %}{%
   include notes.html file="Testovac" name="Testovač návod" hide=0 dot=1 %}{%
@@ -46,12 +46,12 @@ rest = |
   include notes.html file="P14" name="Prednáška 14" hide=0 dot=1 %}{% 
   include notes.html file="P15" name="Prednáška 15" hide=0 dot=1 %}{%
   include hide.html name="Cvičenia 8" hide=0 dot=0 %}
-<!-- pondelok volno -->
+  <!-- pondelok volno -->
   **Týždeň 17.-23.11.** Textové súbory<br/>{%
   include notes.html file="P16" name="Prednáška 16" hide=0 dot=1 %}{%
   include hide.html name="Cvičenia 9" hide=0 dot=1 %}{%
   include url.html file="https://prog.dcs.fmph.uniba.sk/task/1151" name="Miniprojekt" hide=0 dot=0 %}
-<!-- streda volno, video s vyfarbovanim plus nerekurzivny quicksort  -->
+  <!-- streda volno, video s vyfarbovanim plus nerekurzivny quicksort  -->
   **Týždeň 24.-30.11.** Zásobník, rad, vyfarbovanie<br/>{%
   include notes.html file="P17" name="Prednáška 17" hide=0 dot=1 %}{%
   include notes.html file="P18" name="Prednáška 18" hide=0 dot=1 %}{%
