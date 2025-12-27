@@ -10,17 +10,16 @@ title: Prednášky
 include notes.html file="P1" name="Prednáška 1" hide=0 dot=1 %}{%
 include notes.html file="P2" name="Prednáška 2" hide=0 dot=1 %}{%
 include notes.html file="C1" name="Cvičenia 1" hide=0 dot=1 %}{%
-include notes.html file="Softver" name="Softvér" hide=1 dot=1 %}{%
-include notes.html file="Testovac" name="Testovač návod" hide=1 dot=1 %}{%
-include url.html file="https://prog.dcs.fmph.uniba.sk/" name="Testovač" hide=1 dot=0 %}
+include notes.html file="Softver" name="Softvér" hide=0 dot=1 %}{%
+include notes.html file="Testovac" name="Testovač návod" hide=0 dot=1 %}{%
+include url.html file="https://prog.dcs.fmph.uniba.sk/" name="Testovač" hide=0 dot=0 %}
 
 **Týždeň 29.9-5.10.** Ďalšie príklady na cykly, Euklidov algoritmus, cyklus while, funkcie<br/>{%
 include notes.html file="P3" name="Prednáška 3" hide=0 dot=1 %}{%
 include notes.html file="P4" name="Prednáška 4" hide=0 dot=1 %}{%
 include hide.html name="Cvičenia 2" hide=0 dot=0 %}
 
-**Týždeň 6.-12.10.**  Dokončenie funkcií, teoretické cvičenie, test, polia, struct<br/>{%
-include notes.html file="P4b" name="Prednáška 4b" hide=1 dot=0 %}{%
+**Týždeň 6.-12.10.** Teoretické cvičenie, polia, struct<br/>{%
 include notes.html file="P5" name="Prednáška 5" hide=0 dot=1 %}{%
 include url.html file="https://youtu.be/Uml5x1K8CJU" name="(video s koncom prednášky)" hide=0 dot=1 %}{%
 include notes.html file="SVGdraw" name="Grafická knižnica SVGdraw" hide=0 dot=1 %}{%
