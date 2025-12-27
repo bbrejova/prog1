@@ -1,14 +1,14 @@
 weeks:
   - date: '22.-28.9.'
-  - content: 'Úvod, premenné, podmienky, výrazy, cyklus for'
-  - items:
+    content: 'Úvod, premenné, podmienky, výrazy, cyklus for'
+    items:
       - {type: notes, file: P1, name: 'Prednáška 1'}
       - {type: notes, file: P2, name: 'Prednáška 2'}
       - {type: url, file:'https://prog.dcs.fmph.uniba.sk/', name: 'Testovač'}
 
   - date: '29.9-5.10'
-  - content: 'Ďalšie príklady na cykly, Euklidov algoritmus, cyklus while, funkcie'
-  - items:
+    content: 'Ďalšie príklady na cykly, Euklidov algoritmus, cyklus while, funkcie'
+    items:
       - {type: text, name: 'Cvičenia 2'}
 
 rest: |
