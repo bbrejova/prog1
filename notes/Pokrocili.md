@@ -1,5 +1,5 @@
 ---
-title: Zimný_semester,_test_pre_pokročilých
+title: Zimný semester, test pre pokročilých
 ---
 
 * TOC
@@ -17,8 +17,8 @@ title: Zimný_semester,_test_pre_pokročilých
 ## Príprava a pomôcky
 
   - Ako prípravu si môžete pozrieť [ukážky príkladov z archívu
-    predmetu](2023/24_Programovanie_\(1\)_v_C/C%2B%2B#Zimný_semester,_semestrálny_test "wikilink")
-    a [ukážkový test](./:Media:Pisomka-pokrocili2020.pdf.md).
+    predmetu](./Test2.md)
+    a [ukážkový test](../files/Pisomka-pokrocili2020.pdf).
   - Na test si môžete priniesť ťahák v rozsahu jedného listu (dvoch
     strán) A4.
   - Pracovať budete na papieri, bez počítača.
@@ -28,6 +28,4 @@ title: Zimný_semester,_test_pre_pokročilých
 
 ## Pravidlá
 
-Viď [pravidlá
-predmetu](./Zimný_semester,_pravidlá#Test_pre_pokro.C4.8Dil.C3.BDch.md)
-
+Viď [pravidlá predmetu](./Pravidla.md#test-pre-pokročilých)

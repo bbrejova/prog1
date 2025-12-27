@@ -1,12 +1,11 @@
 ---
-title: Zimný_semester,_skúška
+title: Zimný semester, skúška
 ---
 
 * TOC
 {:toc}
 
-Odporúčame tiež si preštudovať **[pravidlá
-predmetu](./Zimný_semester,_pravidlá.md)**.
+Odporúčame tiež si preštudovať **[pravidlá predmetu](./Pravidla.md)**.
 
 ## Termíny, prihlasovanie
 
@@ -125,7 +124,7 @@ Pre niektorých študentov nie je ani tak problém napísať takmer kompletný
 program, ale skôr nájsť v ňom chyby, kvôli ktorým nefunguje.
 
   - Pozrite si rady k hľadaniu chýb na [prednáške
-    5](./Prednáška_5#H.C4.BEadanie_ch.C3.BDb_v_programe.md) a
+    5](./P5#hľadanie-chýb-v-programe) a
     návod na použitie programu [Valgrind](./Valgrind.md).
 
 ## Hodnotenie

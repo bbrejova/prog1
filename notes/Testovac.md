@@ -4,7 +4,7 @@ title: Návod k testovaču
 
 
 Príklady z cvičení, domácich úloh, ale aj na záverečnej skúške budete
-odovzdávať na stránke '''<http://prog.dcs.fmph.uniba.sk/> ''', ktorá
+odovzdávať na stránke '''<https://prog.dcs.fmph.uniba.sk/> ''', ktorá
 bude súčasne mnohé z vašich riešení aj testovať.
 
   - Na stránku sa prihláste heslom, ktoré dostanete na prvých
@@ -64,8 +64,7 @@ bude súčasne mnohé z vašich riešení aj testovať.
     zadával príslušné hodnoty ručne počas behu vášho programu
   - Naopak testovač zachytí do súboru všetko, čo váš program vypíše na
     konzolu. Tento súbor potom porovnáva so správnou odpoveďou.
-  - Napr. [program na sčítanie čísel z prvej
-    prednášky](./Prednáška_1#S.C4.8D.C3.ADtanie_.C4.8D.C3.ADsel.md)
+  - Napr. [program na sčítanie čísel z prvej prednášky](./P1#sčítanie-čísel)
     by mohol mať nasledovný vstup a výstup na testovači:
 
 ```

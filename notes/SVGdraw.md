@@ -10,12 +10,10 @@ do neho rôzne geometrické útvary, animovať ich a používať korytnačiu
 grafiku.
 
   - Návod na použitie knižnice [v prostredí
-    Netbeans](2018/19_Programovanie_\(1\)_v_C/C%2B%2B#Pr.C3.A1ca_v_Netbeans_s_grafickou_kni.C5.BEnicou_SVGdraw "wikilink")
-    a [v prostredí
-    Kate](./Zimný_semester,_softvér#Pr.C3.A1ca_v_Kate_s_grafickou_kni.C5.BEnicou_SVGdraw.md)
+    Kate](./Softver.md#práca-v-kate-s-grafickou-knižnicou-svgdraw)
   - [Stiahnutie
-    knižnice](http://compbio.fmph.uniba.sk/vyuka/prog-data/svgdraw/)
-  - Príklady programov na [prednáške 5](./Prednáška_5.md)
+    knižnice](https://compbio.fmph.uniba.sk/vyuka/prog-data/svgdraw/)
+  - Príklady programov na [prednáške 5](./P5.md)
 
 ## Vykresľovanie v SVG formáte
 
@@ -31,7 +29,7 @@ grafiku.
     nastavujeme farbu čiar a vyfarbovania. Farby zadávame buď troma
     číslami od 0 do 255 určujúcimi intenzitu červenej, zelenej a
     modrej, alebo názvom, napr. `"red"` ([zoznam mien
-    farieb](http://www.w3.org/TR/SVG/types.html#ColorKeywords)). Príkaz
+    farieb](https://www.w3.org/TR/SVG/types.html#ColorKeywords)). Príkaz
     `setFontSize` nastavuje veľkosť písma a `setLineWidth` nastavuje
     hrúbku čiary.
   - Po vykreslení všetkých útvarov ukončíme vykresľovanie príkazom
@@ -66,4 +64,3 @@ korytnačky znázornený ako červený trojuholník a za sebou bude nechávať
     `turnRight` ju otočia.
   - Príkaz `setSpeed` umožňuje zmeniť rýchlosť korytnačky, aby sme
     lepšie videli, ako sa postupne hýbe.
-

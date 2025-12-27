@@ -1,5 +1,5 @@
 ---
-title: Zimný_semester,_semestrálny_test
+title: Zimný semester, semestrálny test
 ---
 
 * TOC
@@ -48,7 +48,7 @@ prácu s konzolou pomocou cin a cout) a nebudú ani príklady používajúce
 SVGdraw.
 
 Môžete si pozrieť aj [ukážkový test pre
-pokročilých](./:Media:Pisomka-pokrocili2020.pdf.md), ktorý má
+pokročilých](../files/Pisomka-pokrocili2020.pdf), ktorý má
 podobné typy príkladov ako semestrálny test.
 
 Príklady podobné na príklady 7, 8, 9 nižšie na riadnom termíne testu
