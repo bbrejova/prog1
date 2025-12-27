@@ -1,5 +1,11 @@
 <ul>
-  {%- for week in site.weeks -%}
-    <li><strong>Týždeň {{ week.date }}</strong> {{ week.content }}
-  {%- endfor -%}
+  {% for week in site.data.semester.weeks %}
+     <li><strong>Týždeň {{ week.date }}</strong> {{ week.content }}
+     {% for item in week.items %}
+       {% if item.type == "notes" %}
+         {% include notes.html file=item.file name=item.name %}
+       {% endif %}
+     {% endfor %}
+     </li>
+  {% endfor %}
 </ul>
