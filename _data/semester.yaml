@@ -1,8 +1,7 @@
 # data na vytvorenie indexu so zoznamom prednasok
 # pre kazdy tyzden je tam datum, popis, co sa berie na prednaskach
 # a zoznam liniek na prednasky, ine subory a pod.
-# jednotlive polozky mozno zakomentovat # tesne pred pomlckou
-# potom sa nezobrazia
+# jednotlive polozky mozno zakomentovat # (nemenit odsadenie)
 
 weeks:
   - date: '22.-28.9.'
@@ -18,9 +17,9 @@ weeks:
   - date: '29.9-5.10'
     content: 'Ďalšie príklady na cykly, Euklidov algoritmus, cyklus while, funkcie'
     items:
-      #- {type: notes, file: P3, name: 'Prednáška 3'}
-      #- {type: notes, file: P4, name: 'Prednáška 4'}
-      #- {type: text, name: 'Cvičenia 2'}
+      - {type: notes, file: P3, name: 'Prednáška 3'}
+      - {type: notes, file: P4, name: 'Prednáška 4'}
+      - {type: text, name: 'Cvičenia 2'}
      
   - date: '6.-12.10.'
     content: 'Teoretické cvičenie, polia, struct'
