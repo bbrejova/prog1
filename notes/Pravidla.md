@@ -191,4 +191,3 @@ získateľných bodov v danej aktivite.
   - Vaše programy by mali fungovať na testovači bez zvláštnych nastavení
     kompilátora a pod.
 
-`     `<sha1>`kiu5odwhajojhcrrd53yfg5t0dfkfrq`</sha1>
