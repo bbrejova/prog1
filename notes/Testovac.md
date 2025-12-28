@@ -4,7 +4,7 @@ title: Návod k testovaču
 
 
 Príklady z cvičení, domácich úloh, ale aj na záverečnej skúške budete
-odovzdávať na stránke '''<https://prog.dcs.fmph.uniba.sk/> ''', ktorá
+odovzdávať na stránke **<https://prog.dcs.fmph.uniba.sk/>**, ktorá
 bude súčasne mnohé z vašich riešení aj testovať.
 
   - Na stránku sa prihláste heslom, ktoré dostanete na prvých
@@ -79,7 +79,7 @@ Please enter the first number: Please enter the second number: 10+3=13
     program si teda nebude pýtať čísla od užívateľa, predpokladá, že ten
     ich sám od seba zadá.
 
-## Nastavenia kompilátora**
+## Nastavenia kompilátora
 
   - Vaše programy kompilujeme pomocou gcc 9.4.0 s nastaveniami `g++
     -static -std=gnu++17 -O2 -Wall -Wextra`
