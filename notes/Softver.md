@@ -176,8 +176,6 @@ Eclipse
 
   - Tieto prostredia teda môžete použiť aj na skúške (vo VS Code ale
     nebudú pluginy pre C++)
-  - Návod na použitie prostredia Netbeans z minulých semestrov nájdete
-    [tu](http://compbio.fmph.uniba.sk/vyuka/prog/index.php/2018/19_Programovanie_\(1\)_v_C/C%2B%2B#Netbeans)
 
 ### Windows
 
@@ -198,9 +196,9 @@ podporujúcich C/C++. Možnosti sú napríklad nasledovné:
     `program.cpp` skompilujeme tak, že sa v príkazovom riadku nastavíme
     do adresára, ktorý ho obsahuje a následne zadáme príkaz ako
 
-<!-- end list -->
-
-    g++ -o prog prog.cpp
+```bash
+g++ -o prog prog.cpp
+```
 
 Tým sa vytvorí spustiteľný súbor `prog.exe`, ktorý možno spustiť z
 príkazového riadku príkazom `prog`.
@@ -285,4 +283,3 @@ použiť program valgrind.
 
   - [Návod na použite programu valgrind](./Valgrind.md).
 
-`     `<sha1>`ctvpd19xt1spvov4y736zj8yjsc264w`</sha1>
